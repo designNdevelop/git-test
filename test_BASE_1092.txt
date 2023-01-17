@@ -1,0 +1,10 @@
+안녕 2023
+메인입니다.
+브랜치 입니다.
+
+<<<<<<<<< Temporary merge branch 1
+- 충돌 해결하기
+추웅돌
+=========
+마스터 브랜치입니다.
+>>>>>>>>> Temporary merge branch 2
